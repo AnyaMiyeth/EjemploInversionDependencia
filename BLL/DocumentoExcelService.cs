@@ -10,6 +10,7 @@ namespace BLL
     {
         public string Generar()
         {
+        var string a=""
            return "Este es el Formato en Excel:";
         }
     }
